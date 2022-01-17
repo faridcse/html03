@@ -1,0 +1,17 @@
+semantic elements: Clearly defines its content - <form>, <table>, and <article>
+Ex: 
+<article>
+<aside>
+<details>
+<figcaption>
+<figure>
+<footer>
+<header>
+<main>
+<mark>
+<nav>
+<section>
+<summary>
+<time>
+
+non-semantic elements: Tells nothing about its content. - <div> and <span>
