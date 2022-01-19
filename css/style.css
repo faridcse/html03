@@ -1,0 +1,19 @@
+.box{
+	height: 200px;
+	width: 200px;
+
+}
+
+.orange{
+	background-color: orange;
+	padding: 50px;
+	margin-left: 50px;
+}
+.green{
+	background-color: green;
+	margin-top: 50px;
+}
+
+h1{
+	font-size: 40px;
+}
